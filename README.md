@@ -5,7 +5,7 @@
 
 没有安装Acme，需要证书自自备
 
-    wget -N https://github.com/Cd1s/alpineXrayR/releases/download/one-click/install-xrayr.sh && bash install-xrayr.sh
+    wget -N https://github.com/Cd1s/alpineXrayR/releases/download/one-click/install-xrayr.sh && chmod +x install-xrayr.sh && bash install-xrayr.sh
     
 重启XrayR
 
