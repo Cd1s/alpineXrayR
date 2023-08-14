@@ -11,7 +11,7 @@
     
 32位
 
-     wget -N https://github.com/Cd1s/alpineXrayR/releases/download/one-click/install-xrayr.sh && chmod +x install-xrayr-32.sh && bash install-xrayr-32.sh
+     wget -N https://github.com/Cd1s/alpineXrayR/releases/download/one-click/install-xrayr-32.sh && chmod +x install-xrayr-32.sh && bash install-xrayr-32.sh
     
 重启XrayR
 
