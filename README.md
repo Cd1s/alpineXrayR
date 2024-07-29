@@ -3,6 +3,8 @@
 
 # 只适用于Alpine系统的XrayR一键安装脚本
 
+## 项目未更新，如有新面板需求，请使用[yuwan027大佬的V2bX Alpine安装脚本](https://github.com/yuwan027/AlpineV2bX)
+
 没有安装Acme，需要证书自备
 
 64位
